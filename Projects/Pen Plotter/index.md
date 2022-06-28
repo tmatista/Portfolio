@@ -13,8 +13,7 @@ the code, CAD, and hardware that made this project a reality.
 
 ## Result
 Below an example of the simulated system performance, actual working video, and produced drawings.
-![Image of assembled System](finalSystem.jpg)
-![Rosette Gif](rosetteDrawingAnimation.gif)
-[![](http://img.youtube.com/vi/P3Ct4gNFd5c/0.jpg)](http://www.youtube.com/watch?v=P3Ct4gNFd5c)
-![](94_1.jpg)
+<img src="finalSystem.jpg" alt="FinalSystem" width="750"/>
 
+![Rosette Gif](rosetteDrawingAnimation.gif)
+<img src="94_1.jpg" alt="drawing" width="300"/>
