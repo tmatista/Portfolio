@@ -11,8 +11,8 @@ capable of drawing any shape withoutusing a simple gantry system. Our particular
 [repository for this project](https://github.com/tmatista/ME405Mecha15) has more detailed information about 
 the code, CAD, and hardware that made this project a reality.
 
-## Result
-Below an example of the simulated system performance, actual working video, and produced drawings.
+## Final Product
+Below is an image of the completed product, simulated system performance, and produced drawings.
 <img src="finalSystem.jpg" alt="FinalSystem" width="750"/>
 
 ![Rosette Gif](rosetteDrawingAnimation.gif)
