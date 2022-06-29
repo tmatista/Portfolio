@@ -33,5 +33,5 @@ the code, CAD, and hardware that made this project a reality.
 Below is an image of the completed product, simulated system performance, and produced drawings.
 
 <img src="finalSystem.jpg" alt="FinalSystem" width="750"/>
-![Rosette Gif](rosetteDrawingAnimation.gif)
-<img src="94_1.jpg" alt="drawing" width="300"/>
+<img src="rosetteDrawingAnimation.gif" alt="Rosette Gif" width="350"/>
+<img src="94_1.jpg" alt="drawing" width="350"/>
