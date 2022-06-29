@@ -1,7 +1,25 @@
+# Senior Project: B-Dot Calibration
+Date: 05/11/2022  
+Team: Tim Matista, Ben Clark, Jared Rocha, Jacob Wong  
+Sponsor: Lawrence Livermore National Laboratory  
+
+## About
+My senior capstone project was to automate the calibration of magnetic field probes for Lawrence Livermore
+National Laboratory. These probes had to be accurately positioned within a known magnetic field to calculate 
+a calibration constant. My areas of focus were the user interface, data acquisition, and manufacturing the 
+safety enclosure.
+
+## Final Product
+<img src="seniorProject.jpg" alt="SeniorProject" width="750"/>
+<img src="SPGUI.jpg" alt="GUI" width="750"/>
+
+
+
+
 # Pen Plotter
-#### Date: 06/04/2022
-#### Authors: Tim Matista, Jason Hu
-#### Under the Guidance of: Professor Charlie Refvem, Cal Poly SLO
+Date: 06/04/2022  
+Team: Tim Matista, Jason Hu  
+Under the Guidance of: Professor Charlie Refvem, Cal Poly SLO  
 
 ## About
 This pen plotter was the term project for my Mechatronics class at Cal Poly. The goal was to produce a robot 
@@ -13,7 +31,7 @@ the code, CAD, and hardware that made this project a reality.
 
 ## Final Product
 Below is an image of the completed product, simulated system performance, and produced drawings.
-<img src="finalSystem.jpg" alt="FinalSystem" width="750"/>
 
+<img src="finalSystem.jpg" alt="FinalSystem" width="750"/>
 ![Rosette Gif](rosetteDrawingAnimation.gif)
 <img src="94_1.jpg" alt="drawing" width="300"/>
