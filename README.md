@@ -10,8 +10,8 @@ a calibration constant. My areas of focus were the user interface, data acquisit
 safety enclosure.
 
 ## Final Product
-<img src="seniorProject.jpg" alt="SeniorProject" width="600"/>
-<img src="SPGUI.jpg" alt="GUI" width="400"/>
+<img src="/seniorProject/labeledFullSystem.jpg" alt="SeniorProject" width="600"/>
+<img src="/seniorProject/SPGUI.jpg" alt="GUI" width="400"/>
 
 
 
@@ -32,6 +32,6 @@ the code, CAD, and hardware that made this project a reality.
 ## Final Product
 Below is an image of the completed product, simulated system performance, and produced drawings.
 
-<img src="finalSystem.jpg" alt="FinalSystem" width="750"/>
-<img src="rosetteDrawingAnimation.gif" alt="Rosette Gif" width="350"/>
-<img src="94_1.jpg" alt="drawing" width="350"/>
+<img src="/Pen Plotter/finalSystem.jpg" alt="FinalSystem" width="750"/>
+<img src="/Pen Plotter/rosetteDrawingAnimation.gif" alt="Rosette Gif" width="350"/>
+<img src="/Pen Plotter/drawingExamples.jpg" alt="Drawings" width="350"/>
