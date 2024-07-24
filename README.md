@@ -10,8 +10,8 @@ a calibration constant. My areas of focus were the user interface, data acquisit
 safety enclosure.
 
 ## Final Product
-<img src="/seniorProject/labeledFullSystem.jpg" alt="SeniorProject" width="600"/>
-<img src="/seniorProject/SPGUI.jpg" alt="GUI" width="400"/>
+<img src="/Senior Project/labeledFullSystem.jpg" alt="SeniorProject" width="600"/>
+<img src="/Senior Project/SPGUI.jpg" alt="GUI" width="400"/>
 
 
 
