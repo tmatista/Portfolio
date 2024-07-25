@@ -10,8 +10,11 @@ a calibration constant. My areas of focus were the user interface, data acquisit
 safety enclosure.
 
 ## Final Product
-<img src="/Senior Project/labeledFullSystem.jpg" alt="SeniorProject" width="600"/>
-<img src="/Senior Project/SPGUI.jpg" alt="GUI" width="400"/>
+<img src="Senior Project/labeledFullSystem.jpg" alt="SeniorProject" width="600"/>
+<img src="Senior Project/SPGUI.jpg" alt="GUI" width="400"/>
+
+
+
 
 
 
@@ -32,6 +35,19 @@ the code, CAD, and hardware that made this project a reality.
 ## Final Product
 Below is an image of the completed product, simulated system performance, and produced drawings.
 
-<img src="/Pen Plotter/finalSystem.jpg" alt="FinalSystem" width="750"/>
-<img src="/Pen Plotter/rosetteDrawingAnimation.gif" alt="Rosette Gif" width="350"/>
-<img src="/Pen Plotter/drawingExamples.jpg" alt="Drawings" width="350"/>
+<img src="Pen Plotter/finalSystem.jpg" alt="FinalSystem" width="750"/>
+<img src="Pen Plotter/rosetteDrawingAnimation.gif" alt="Rosette Gif" width="350"/>
+<img src="Pen Plotter/drawingExamples.jpg" alt="Drawings" width="350"/>
+
+
+# Coding Projects
+## p5.js
+
+### Dragon Curve
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js">
+</script>
+<script src="Programming Projects/ p5.js/Dragon Curve/dragonCurve.js">
+</script>
+ 
